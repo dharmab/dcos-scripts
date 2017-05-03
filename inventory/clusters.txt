@@ -1,0 +1,15 @@
+http://admin.intrepid-dev-ut1.ethos.adobe.net
+http://ethos01-sbx-wa1.ethos.adobe.net
+http://ethos01-dev-ams2.ethos.adobe.net
+http://ethos01-dev-or1.ethos.adobe.net
+http://ethos01-dev-wa1.ethos.adobe.net
+http://ethos01-prod-ams2.ethos.adobe.net
+http://ethos01-prod-da2.ethos.adobe.net
+http://ethos01-prod-lon5.ethos.adobe.net
+http://ethos01-prod-or1.ethos.adobe.net
+http://ethos01-prod-sin2.ethos.adobe.net
+http://ethos01-prod-sin5.ethos.adobe.net
+http://ethos01-prod-va7.ethos.adobe.net
+http://ethos01-stage-wa1.ethos.adobe.net
+http://ethos02-dev-wa1.ethos.adobe.net
+http://ethos03-dev-wa1.ethos.adobe.net
